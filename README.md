@@ -5,6 +5,10 @@
 <h1 align="center">Hi 👋, I'm Mehul Shah</h1>
 <h3 align="center">A Web Developer from India.</h3>
 
+
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Mehulshah702/Mehulshah702/assets/138091393/74ee2144-c8bd-4f89-9231-1c78a57b7ad6)
+"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehulshah702&label=Profile%20views&color=0e75b6&style=flat" alt="mehulshah702" /> </p>
 
 - 🌱 I’m a student at **Parul University, India.**
