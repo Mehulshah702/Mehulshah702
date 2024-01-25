@@ -6,7 +6,7 @@
 <h3 align="center">A Web Developer from India.</h3>
 
 
-<img align="right" alt="coding" width="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40aliias2603%2Fprograming-without-being-exhausted-8c23f71c8c8&psig=AOvVaw0maxrh0LLfrM0PHvv7IrpV&ust=1706304007636000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDjk_i7-YMDFQAAAAAdAAAAABAQ">
+<img align="right" alt="coding" width="200" src="https://github.com/Mehulshah702/Mehulshah702/blob/main/1_m43Pv4nJJgPdaxDAdLc8XQ.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehulshah702&label=Profile%20views&color=0e75b6&style=flat" alt="mehulshah702" /> </p>
 
