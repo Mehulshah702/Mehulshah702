@@ -6,7 +6,7 @@
 <h3 align="center">A Web Developer from India.</h3>
 
 
-<img align="right" alt="coding" width="200" src="https://github.com/Mehulshah702/Mehulshah702/blob/main/1_m43Pv4nJJgPdaxDAdLc8XQ.gif?raw=true">
+<img align="right" alt="coding" width="400" src="https://github.com/Mehulshah702/Mehulshah702/blob/main/1_m43Pv4nJJgPdaxDAdLc8XQ.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehulshah702&label=Profile%20views&color=0e75b6&style=flat" alt="mehulshah702" /> </p>
 
