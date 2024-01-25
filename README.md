@@ -6,7 +6,7 @@
 <h3 align="center">A Web Developer from India.</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFR5cF9EYzZLUVBkdHhubE5tS2RzQlowWFRvQXxBQ3Jtc0ttbGdjenRmN3FKTjh5NW00Z0R0STVHbXNvb0ZUR3BFZ2FXbnFLYVo4SVlwNENzYklkQm5tR0tweGQyeXA0eF8tODU0MDZfdUdmV0xMdVlqdFN3RTdVMFRmSDFwXzRrYjVKckdHYlRXVDJZYWdWYUJYWQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align="right" alt="coding" width="200" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFR5cF9EYzZLUVBkdHhubE5tS2RzQlowWFRvQXxBQ3Jtc0ttbGdjenRmN3FKTjh5NW00Z0R0STVHbXNvb0ZUR3BFZ2FXbnFLYVo4SVlwNENzYklkQm5tR0tweGQyeXA0eF8tODU0MDZfdUdmV0xMdVlqdFN3RTdVMFRmSDFwXzRrYjVKckdHYlRXVDJZYWdWYUJYWQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehulshah702&label=Profile%20views&color=0e75b6&style=flat" alt="mehulshah702" /> </p>
 
