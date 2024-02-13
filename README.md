@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Mehul Shah</h1>
+<h1 align="center">Mehul Shah</h1>
 <h3 align="center">A Web Developer from India.</h3>
 
 
