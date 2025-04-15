@@ -20,7 +20,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mehulshah702](https://github.com/Mehulshah702)
 
-### - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/3420038593073791749](https://www.blogger.com/blog/posts/3420038593073791749)
 
 - 💬 Ask me about **React.js, MySQL, MongoDB, JavaScript, Python, etc**
 
